@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ## 📬 Contact
 
 Made with ❤️ by Adithyan P R  
-📧 [your.email@example.com]  
+📧 [Gmail](adithyanprupasana@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/adithyan-p-r-36b79a250)
 
 ---
