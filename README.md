@@ -43,25 +43,6 @@ This project analyzes customer product reviews to identify patterns in return be
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. Open `ecommerce_returns_analysis.ipynb` in Google Colab or Jupyter Notebook.
-
-3. Ensure `7817_1.csv` is in the same directory.
-
-4. (Optional) Set up your environment:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## 🧰 Requirements
 
 Libraries used:
